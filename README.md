@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Python refactorings and simplifications (#7549)
