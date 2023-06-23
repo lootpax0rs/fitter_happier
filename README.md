@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
