@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix docker.yaml double-quote version bug (#7452)
