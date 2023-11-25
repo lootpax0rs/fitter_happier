@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Model typehints Docker fix (#8306)
