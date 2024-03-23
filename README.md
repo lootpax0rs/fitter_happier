@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
