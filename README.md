@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
