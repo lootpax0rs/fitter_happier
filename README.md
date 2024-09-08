@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
